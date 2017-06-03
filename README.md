@@ -29,5 +29,5 @@ Invision
 Figma  
 UXPin  
 ### Legal:
-[A Simple Agreement for Future Tokens](https://blog.colony.io/a-simple-agreement-for-future-tokens-or-equity-b8ef08608347)
+[A Simple Agreement for Future Tokens](https://blog.colony.io/a-simple-agreement-for-future-tokens-or-equity-b8ef08608347)  
 [Novar Rutar Law Firm](http://www.novakrutar.si/en/)
