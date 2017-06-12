@@ -1,7 +1,7 @@
 # Tools for Founders
 
 ### Lawyers:
-[Novar Rutar Law Firm](http://www.novakrutar.si/en/) (Aragon) 
+[Novar Rutar Law Firm](http://www.novakrutar.si/en/) (Aragon)   
 [MME](MME.ch) (Status)
 
 ### Legal Documents:
