@@ -2,7 +2,7 @@
 
 ### Lawyers:
 [Novar Rutar Law Firm](http://www.novakrutar.si/en/) (Aragon)   
-[MME](MME.ch) (Status)
+[MME](MME.ch) (Status)   
 [Gibraltar Lawyers](http://www.gibraltarlawyers.com/) (Gnosis)
 
 
