@@ -3,6 +3,8 @@
 ### Lawyers:
 [Novar Rutar Law Firm](http://www.novakrutar.si/en/) (Aragon)   
 [MME](MME.ch) (Status)
+[Gibraltar Lawyers](http://www.gibraltarlawyers.com/) (Gnosis)
+
 
 ### Legal Documents:
 [A Simple Agreement for Future Tokens](https://blog.colony.io/a-simple-agreement-for-future-tokens-or-equity-b8ef08608347)  
