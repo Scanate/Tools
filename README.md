@@ -1,5 +1,12 @@
 # Tools for Founders
 
+### Lawyers:
+[Novar Rutar Law Firm](http://www.novakrutar.si/en/) (Aragon) 
+[MME](MME.ch) (Status)
+
+### Legal Documents:
+[A Simple Agreement for Future Tokens](https://blog.colony.io/a-simple-agreement-for-future-tokens-or-equity-b8ef08608347)  
+
 ### Communication:
 Slack: Easiest to setup, most popular and used, but has limits. It also gets very expensive, very fast.  
 RocketChat: Second most popular and open-sourced alternative.  
@@ -28,7 +35,4 @@ Confluence  
 Invision  
 Figma  
 UXPin  
-### Legal:
-[A Simple Agreement for Future Tokens](https://blog.colony.io/a-simple-agreement-for-future-tokens-or-equity-b8ef08608347)  
-[Novar Rutar Law Firm](http://www.novakrutar.si/en/)  
-[MME](MME.ch)
+
