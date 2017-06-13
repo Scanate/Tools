@@ -1,7 +1,8 @@
 # Tools for Founders
 
 ### Lawyers:
-[MME](MME.ch) (Tezos, Status)   
+[MME](MME.ch) (Tezos, Status, Golem)   
+[Wardynski](wardynski.com.pl) (Golem)   
 [Novar Rutar Law Firm](http://www.novakrutar.si/en/) (Aragon)   
 [Gibraltar Lawyers](http://www.gibraltarlawyers.com/) (Gnosis)
 
